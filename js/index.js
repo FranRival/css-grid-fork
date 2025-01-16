@@ -36,3 +36,6 @@ function mostrarSeccion(paginaNueva) {
     
     paginaActual = paginaNueva;
 }
+
+
+///estoy retomando lo que learn hace varios fockin months.
